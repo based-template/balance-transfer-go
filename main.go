@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/balance-transfer-go/utils"
+	"github.com/based-template/balance-transfer-go/utils"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
